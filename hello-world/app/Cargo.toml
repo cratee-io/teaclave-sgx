@@ -1,0 +1,12 @@
+[package]
+name = "app"
+version = "1.0.0"
+authors = ["sammyne <lixiangmin01@baidu.com>"]
+build = "build.rs"
+edition = "2018"
+
+[dependencies]
+usgx = { path = "../../usgx" }
+
+[build-dependencies]
+cc = "1.0.50"

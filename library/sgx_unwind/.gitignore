@@ -1,0 +1,8 @@
+libunwind/autom4te.cache/*
+libunwind/aclocal.m4
+libunwind/config/*
+libunwind/configure
+libunwind/INSTALL
+libunwind/Makefile.in
+libunwind/src/Makefile.in
+libunwind/include/config.h.in*
